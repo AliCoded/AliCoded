@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AliCoded
+- 👀 I’m interested in Python and Lua
+- 🌱 I’m currently learning C++!
